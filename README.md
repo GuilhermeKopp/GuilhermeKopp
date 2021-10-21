@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="#">
+    <img align="center" width="400" src="Slogan.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="350" src="programmer.gif" />
+  </a>
+</p>
+</br>
+</br>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
