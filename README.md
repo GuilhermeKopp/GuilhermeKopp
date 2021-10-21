@@ -18,10 +18,14 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<img align="right" width="320" height="250" style="border-radius:30px;" src="ezgif.com-gif-maker.gif?raw=true" />
 <p> - 👨‍💻 Desenvolvedor Full-Stack iniciante. </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de sistemas pelo Uniceub. </p>
 <p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, React, JSON. </p>
+<p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Xampp, VisualStudio, SceneBuilder, MySQL Workbanch, NodeJS, GIT </p>
+<p> - 📚 Cursos: Java orientado a objetos ✔️; Banco de dados ✔️; React Js ⏳ </p>
+<p> - 📚 Cursos: Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB ✔️ </p>
+<p> - 📚 Cursos: Testes automáticos + testes de software ✔️ </p>
   
 </div>
 
@@ -39,12 +43,12 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="40" src="https://1.bp.blogspot.com/-ZExVDWf32W4/XJP4C14MavI/AAAAAAAAJSU/wKCAeLwLMWY6BkoQH5On036zZ1lEzb88QCK4BGAYYCw/s1600/logo%2Bjson%2Bicon.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
-   
+  
 </div>
 
 ## Meus contatos :iphone:
