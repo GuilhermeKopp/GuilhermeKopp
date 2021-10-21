@@ -19,13 +19,14 @@
 ### Sobre mim
 <div style="display: inline_block">
 <img align="right" width="250" height="250" style="border-radius:30px;" src="static-assets-upload10422000285825553788.gif?raw=true" />
-<p> - 👨‍💻 Desenvolvedor Full-Stack iniciante. </p>
+<p> - 👨‍💻 Desenvolvedor Back-End. </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de sistemas pelo Uniceub. </p>
-<p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, React, JSON. </p>
-<p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Xampp, VisualStudio, SceneBuilder, MySQL Workbanch, NodeJS, GIT </p>
 <p> - 📚 Cursos: Java orientado a objetos ✔️; Banco de dados ✔️; React Js ⏳ </p>
 <p> - 📚 Cursos: Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB ✔️ </p>
 <p> - 📚 Cursos: Testes automáticos + testes de software ✔️ </p>
+<p> - 💻 Metodologia: Scrum </p>
+<p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, React, JSON. </p>
+<p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Xampp, VisualStudio, SceneBuilder, MySQL Workbanch, NodeJS, GIT </p>
   
 </div>
 
