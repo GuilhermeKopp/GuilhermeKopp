@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="480" src="MySlogan.png" />
+    <img align="center" width="470" src="MySlogan.png" />
   </a>
   <a href="#">
     <img align="center" width="350" src="programmer.gif" />
