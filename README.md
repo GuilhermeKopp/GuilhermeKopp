@@ -35,7 +35,7 @@
 <p> - 📚 Cursos: Microsserviços Java com Spring Boot e Spring Cloud. ✔️ </p>
 <p> - 📚 Cursos: Testes automáticos ✔️; Desenvolvimento Web completo ✔️ </p>
 <p> - 💻 Metodologia: Scrum </p>
-<p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, React, JSON. </p>
+<p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, Angular, React, JSON. </p>
 <p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Sublime, VS Code, SceneBuilder, MySQL Workbanch, Docker, GIT </p>
   
 </div>
