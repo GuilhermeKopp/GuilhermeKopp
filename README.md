@@ -36,7 +36,7 @@
 <p> - 📚 Cursos: Testes automáticos ✔️; Desenvolvimento Web completo ✔️ </p>
 <p> - 💻 Metodologia: Scrum </p>
 <p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, React, JSON. </p>
-<p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Sublime, VisualStudio, SceneBuilder, MySQL Workbanch, NodeJS, GIT </p>
+<p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Sublime, VS Code, SceneBuilder, MySQL Workbanch, Docker, GIT </p>
   
 </div>
 
