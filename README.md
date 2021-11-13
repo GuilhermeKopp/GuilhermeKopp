@@ -56,7 +56,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://1.bp.blogspot.com/-ZExVDWf32W4/XJP4C14MavI/AAAAAAAAJSU/wKCAeLwLMWY6BkoQH5On036zZ1lEzb88QCK4BGAYYCw/s1600/logo%2Bjson%2Bicon.png">
+    <img height="40" src="https://www.pngrepo.com/png/353396/180/angular-icon.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
   
