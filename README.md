@@ -31,11 +31,11 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="static-assets-upload10422000285825553788.gif?raw=true" />
 <p> - 👨‍💻 Desenvolvedor Back-End. </p>
 <p> - 👨‍🎓 Formado em Análise e Desenvolvimento de sistemas pelo Uniceub. </p>
-<p> - 📚 Cursos: Java orientado a objetos ✔️; Banco de dados ✔️; React Js ⏳ </p>
+<p> - 📚 Cursos: Java orientado a objetos ✔️; Banco de dados ✔️; </p>
 <p> - 📚 Cursos: Microsserviços Java com Spring Boot e Spring Cloud. ✔️ </p>
 <p> - 📚 Cursos: Testes automáticos ✔️; Desenvolvimento Web completo ✔️ </p>
 <p> - 💻 Metodologia: Scrum </p>
-<p> - 🎯 Interesse: Java, Spring Boot, MySQL, API , HTML, CSS, JavaScript, Angular, React, JSON. </p>
+<p> - 🎯 Interesse: Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Angular, JSON. </p>
 <p> - 🚀 Ferramentas: Eclipse, NetBeans, Intellij, SpringTools, Postman, Sublime, VS Code, SceneBuilder, MySQL Workbanch, Docker, GIT </p>
   
 </div>
